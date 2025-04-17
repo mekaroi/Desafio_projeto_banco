@@ -1,6 +1,0 @@
-README.md
-setup.py
-Desafio_projeto_banco.egg-info/PKG-INFO
-Desafio_projeto_banco.egg-info/SOURCES.txt
-Desafio_projeto_banco.egg-info/dependency_links.txt
-Desafio_projeto_banco.egg-info/top_level.txt
