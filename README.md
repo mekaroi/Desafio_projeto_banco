@@ -10,8 +10,9 @@ Um pacote Python simples que simula um sistema bancário com funcionalidades bas
 
 ## Installation
 
-Você pode instalar o pacote Desafio_projeto_banco usando o link disponivel no site o PyPi.
+Você pode instalar o pacote Desafio_projeto_banco usando:
 
+pip install Desafio-projeto-banco
 
 ## Acuthor
 
