@@ -14,7 +14,7 @@ Você pode instalar o pacote Desafio_projeto_banco usando:
 
 pip install Desafio-projeto-banco
 
-## Acuthor
+## Acthor
 
 Igor Merkaro
 
