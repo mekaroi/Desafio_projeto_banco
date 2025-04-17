@@ -1,0 +1,22 @@
+## Meu Banco
+
+Um pacote Python simples que simula um sistema bancário com funcionalidades basicas de criação de contas e operações.
+
+## Description
+
+- Criar contas bancárias com tilular, funções de depósito, saque e extrato.
+- Armazenamento de multiplas contas.
+- Listar todas as contas cadastradas com seus respectivos usuarios.
+
+## Installation
+
+Você pode instalar o pacote Desafio_projeto_banco usando o link disponivel no site o PyPi.
+
+
+## Acuthor
+
+Igor Merkaro
+
+## License
+
+[MIT](LICENSE)
